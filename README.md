@@ -49,17 +49,17 @@
 #### 🗂 Main.storyboard
 
 2-1. UIImageView を storyboad に追加
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/1.gif" /></div></details>
+> <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/1.gif" /></div></details>
 
 2-2. 画像を設定し、大きさを調整
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/2.gif" /></div></details>
+> <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/2.gif" /></div></details>
 
 2-3. 時間を表示するための UILabel を storyboad に追加
 背景画像に合わせてテキストカラーを調整
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/3.gif" /></div></details>
+> <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/3.gif" /></div></details>
 
 2-4. UILabel の 文字サイズ等を調整
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/4.gif" /></div></details>
+> <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/4.gif" /></div></details>
 
 ## 3, UILabel を "ViewController.swift" に紐付ける
 
@@ -68,11 +68,11 @@
 > 3-1. UILabel を "ViewController.swift" に紐付ける
 
 ★ controlを押しながらドラッグ
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/5.gif" /></div></details>
+> <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/5.gif" /></div></details>
 
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/6.gif" /></div></details>
+> <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/6.gif" /></div></details>
 
-> <details><summary>View Gif</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/7.gif" /></div></details>
+> <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/7.gif" /></div></details>
 
 ## 4, 下記のコードを"ViewController.swift"に追加
 
