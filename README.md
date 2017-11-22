@@ -55,6 +55,7 @@
 > <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/2.gif" /></div></details>
 
 2-3. 時間を表示するための UILabel を storyboad に追加
+
 背景画像に合わせてテキストカラーを調整
 > <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/3.gif" /></div></details>
 
@@ -71,8 +72,6 @@
 > <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/5.gif" /></div></details>
 
 > <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/6.gif" /></div></details>
-
-> <details><summary>詳細画像をみる</summary><div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/7.gif" /></div></details>
 
 ## 4, 下記のコードを"ViewController.swift"に追加
 
@@ -113,6 +112,7 @@ class ViewController: UIViewController {
 ## 5, 追加課題
 
 > 5-1. 日付を表示するラベルも追加してみてください。
+
 ★ 参考
 ```Swift
         formatter.dateFormat = "yyyy/MM/dd" // 2017/01/01
