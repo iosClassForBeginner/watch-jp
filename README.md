@@ -1,7 +1,7 @@
 # 第22回: １時間でiPhoneアプリを作ろう
 ## 時計アプリ
 
-  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-jp/blob/master/samples/sample.gif" width="50%" height="50%"/></div>
+  <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/watch-jp/blob/master/sample/sample.gif" width="50%" height="50%"/></div>
 
   当アカウントへ訪れていただき、誠にありがとうございます。第22回アプリ教室では、時計アプリを作ります。自分のペースで勉強したい、勉強前に予習したい、内容を復習したい場合、ご利用ください。
 
